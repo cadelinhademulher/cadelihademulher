@@ -1,8 +1,8 @@
 #cadelinhademulher 
 
-Ola, bem vindos ao meu perfil!
+**Ola, bem vindos ao meu perfil!**
 
-Eu me chamo Evelin Cristina
+Eu me chamo **Evelin Cristina**
 
 ° Estou estudando na Alura
 ° Estou me desenvolvendo na linguagem JavaScript
